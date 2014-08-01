@@ -11,7 +11,7 @@ Cloud services with free trial and so on...
 - CI (continuous integration)
   - [travis](https://travis-ci.org/)
 
-- Coverage, code smells, tatic analysis 
+- Coverage, code smells, static analysis 
   - [Codeclimate](https://codeclimate.com)
   - [Coveralls](https://coveralls.io/)
 
@@ -25,10 +25,13 @@ Cloud services with free trial and so on...
 - Storage
   - [Dropbox](https://www.dropbox.com/developers)
 
+- Images tools
+  - [Uploadcare](https://uploadcare.com/)
+
 - DataBases
   - [MongoHQ](https://www.mongohq.com/)
 
-- Static servers
+- Static servers for Landing Pages or blogs
   - [GH-pages](https://pages.github.com/)
   - [Jekyll](http://jekyllrb.com/)
 
@@ -51,9 +54,10 @@ Cloud services with free trial and so on...
 - Payment tools
   - [Stripe](https://stripe.com/)
 
-- Images tools
-  - [Uploadcare](https://uploadcare.com/)
-
 - Prorotyping
   - [Prototiping on paper](https://popapp.in/)
+
+- Metrics
+  - [Yandex metrics](https://metrika.yandex.com/)
+  - [Google analytics](http://www.google.com/analytics/features/)
   
