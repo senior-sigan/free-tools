@@ -48,6 +48,9 @@ Cloud services with free trial and so on...
   - [Mailchimp](http://mailchimp.com/)
   - [MailTrap](https://mailtrap.io/)
 
+- Payment tools
+  - [Stripe](https://stripe.com/)
+
 - Images tools
   - [Uploadcare](https://uploadcare.com/)
 
