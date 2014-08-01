@@ -6,7 +6,6 @@ Cloud services with free trial and so on...
 - Backend
   - [Heroku](https://www.heroku.com/)
   - [Google clouds](https://cloud.google.com/)
-  - [Pagoda](https://pagodabox.com/)
 
 - CI (continuous integration)
   - [travis](https://travis-ci.org/)
