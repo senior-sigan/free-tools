@@ -32,6 +32,10 @@ Cloud services with free trial and so on...
   - [GH-pages](https://pages.github.com/)
   - [Jekyll](http://jekyllrb.com/)
 
+- JSON servers
+  - [MyJson](http://myjson.com/)
+  - [Parse](https://parse.com/)
+
 - Generators for testing
   - [RandomUser](http://randomuser.me/)
   - [CatAPI](http://thecatapi.com/)
@@ -39,3 +43,14 @@ Cloud services with free trial and so on...
 - Chats
   - [Slack](https://slack.com/)
   - [Gitter](http://gitter.im)
+
+- Mailing tools
+  - [Mailchimp](http://mailchimp.com/)
+  - [MailTrap](https://mailtrap.io/)
+
+- Images tools
+  - [Uploadcare](https://uploadcare.com/)
+
+- Prorotyping
+  - [Prototiping on paper](https://popapp.in/)
+  
