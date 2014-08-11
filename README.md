@@ -36,6 +36,7 @@ Cloud services with free trial and so on...
 
 - JSON servers
   - [MyJson](http://myjson.com/)
+  - [JSON generator](http://www.json-generator.com/)
   - [Parse](https://parse.com/)
 
 - Generators for testing
