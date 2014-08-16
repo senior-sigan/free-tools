@@ -21,6 +21,9 @@ Cloud services with free trial and so on...
   - [Newrelic](http://newrelic.com/)
   - [Logentries](https://logentries.com/)
 
+- SysLog cloud
+  - [Papertrail](https://papertrailapp.com/) 
+
 - Storage
   - [Dropbox](https://www.dropbox.com/developers)
 
