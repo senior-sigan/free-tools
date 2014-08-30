@@ -42,6 +42,9 @@ Cloud services with free trial and so on...
   - [JSON generator](http://www.json-generator.com/)
   - [Parse](https://parse.com/)
 
+- API Documentation
+  - [Apiary](http://apiary.com) 
+
 - Generators for testing
   - [RandomUser](http://randomuser.me/)
   - [CatAPI](http://thecatapi.com/)
