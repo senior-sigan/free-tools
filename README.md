@@ -56,6 +56,7 @@ Cloud services with free trial and so on...
 - Mailing tools
   - [Mailchimp](http://mailchimp.com/)
   - [MailTrap](https://mailtrap.io/)
+  - [Maildrop](http://maildrop.cc/)
 
 - Payment tools
   - [Stripe](https://stripe.com/)
