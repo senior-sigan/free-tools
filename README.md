@@ -52,6 +52,7 @@ Cloud services with free trial and so on...
 - Chats
   - [Slack](https://slack.com/)
   - [Gitter](http://gitter.im)
+  - [Fleep](https://fleep.io/)
 
 - Mailing tools
   - [Mailchimp](http://mailchimp.com/)
