@@ -54,6 +54,9 @@ Cloud services with free trial and so on...
   - [Gitter](http://gitter.im)
   - [Fleep](https://fleep.io/)
 
+- Online code converters
+  - [JS NICE](http://jsnice.org/) 
+
 - Mailing tools
   - [Mailchimp](http://mailchimp.com/)
   - [MailTrap](https://mailtrap.io/)
