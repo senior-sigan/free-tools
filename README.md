@@ -56,9 +56,11 @@ Cloud services with free trial and so on...
   - [Slack](https://slack.com/)
   - [Gitter](http://gitter.im)
   - [Fleep](https://fleep.io/)
+  - [Let's chat](http://sdelements.github.io/lets-chat/)
 
 - Online code converters
   - [JS NICE](http://jsnice.org/) 
+  - [HTML to Jade](http://html2jade.org/)
 
 - Mailing tools
   - [Mailchimp](http://mailchimp.com/)
