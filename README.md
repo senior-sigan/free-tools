@@ -43,7 +43,10 @@ Cloud services with free trial and so on...
   - [Parse](https://parse.com/)
 
 - API Documentation
-  - [Apiary](http://apiary.com) 
+  - [ApiDoc](http://apidocjs.com) 
+  - [API Blueprint](http://apiblueprint.org/)
+    - [Apiary](http://apiary.com) 
+    - [Agilo](https://github.com/danielgtaylor/aglio)
 
 - Generators for testing
   - [RandomUser](http://randomuser.me/)
