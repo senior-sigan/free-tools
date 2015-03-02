@@ -21,8 +21,12 @@ Cloud services with free trial and so on...
   - [Newrelic](http://newrelic.com/)
   - [Logentries](https://logentries.com/)
 
-- SysLog cloud
+
+
+- Log monitor/analyzers
   - [Papertrail](https://papertrailapp.com/) 
+  - [Log.io](http://logio.org/) 
+  - [GoAccess](http://goaccess.io/) real-time web log analyzer
 
 - Storage
   - [Dropbox](https://www.dropbox.com/developers)
