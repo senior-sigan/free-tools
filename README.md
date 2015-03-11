@@ -21,8 +21,6 @@ Cloud services with free trial and so on...
   - [Newrelic](http://newrelic.com/)
   - [Logentries](https://logentries.com/)
 
-
-
 - Log monitor/analyzers
   - [Papertrail](https://papertrailapp.com/) 
   - [Log.io](http://logio.org/) 
@@ -51,6 +49,9 @@ Cloud services with free trial and so on...
   - [API Blueprint](http://apiblueprint.org/)
     - [Apiary](http://apiary.com) 
     - [Agilo](https://github.com/danielgtaylor/aglio)
+
+- Markdown Editors
+  - [StackEdit](https://stackedit.io) 
 
 - Generators for testing
   - [RandomUser](http://randomuser.me/)
