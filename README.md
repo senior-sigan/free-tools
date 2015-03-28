@@ -49,6 +49,7 @@ Cloud services with free trial and so on...
   - [API Blueprint](http://apiblueprint.org/)
     - [Apiary](http://apiary.com) 
     - [Agilo](https://github.com/danielgtaylor/aglio)
+  - [Swagger.io](http://swagger.io/) 
 
 - Markdown Editors
   - [StackEdit](https://stackedit.io) 
