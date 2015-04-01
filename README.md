@@ -29,6 +29,9 @@ Cloud services with free trial and so on...
 - Storage
   - [Dropbox](https://www.dropbox.com/developers)
 
+- Fonts tools
+  - [Fontsquirrel](http://www.fontsquirrel.com/tools/webfont-generator) squirrel fonts
+
 - Images tools
   - [Uploadcare](https://uploadcare.com/)
 
