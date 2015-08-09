@@ -48,6 +48,7 @@ Cloud services with free trial and so on...
   - [MyJson](http://myjson.com/)
   - [JSON generator](http://www.json-generator.com/)
   - [Parse](https://parse.com/)
+  - [Ghost](https://ghost.org/)
 
 - Wiki or project readme
   - [ReadMe.io](https://readme.io/) - free for open source projects 
