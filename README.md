@@ -8,6 +8,7 @@ Cloud services with free trial and so on...
   - [Google clouds](https://cloud.google.com/)
   - [OpenShift](https://www.openshift.com)
   - [Cloudfoundry](https://www.cloudfoundry.org)
+  - [IBM Bluemix](https://console.ng.bluemix.net/)
 
 - CI (continuous integration)
   - [travis](https://travis-ci.org/)
