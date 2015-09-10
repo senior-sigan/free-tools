@@ -40,6 +40,7 @@ Cloud services with free trial and so on...
 
 - DataBases
   - [MongoHQ](https://www.mongohq.com/)
+  - [Firebase](https://www.firebase.com/)
 
 - Static servers for Landing Pages or blogs
   - [GH-pages](https://pages.github.com/)
