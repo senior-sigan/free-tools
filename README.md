@@ -13,6 +13,7 @@ Cloud services with free trial and so on...
 - CI (continuous integration)
   - [travis](https://travis-ci.org/)
   - [Sauce](https://saucelabs.com/) - selenium, web app, mobile
+  - [Wercker](http://wercker.com/) - Continuously develop, build and deploy your containers.
 
 - Coverage, code smells, static analysis 
   - [Codeclimate](https://codeclimate.com)
