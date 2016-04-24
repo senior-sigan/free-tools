@@ -96,4 +96,9 @@ Cloud services with free trial and so on...
 - Metrics
   - [Yandex metrics](https://metrika.yandex.com/)
   - [Google analytics](http://www.google.com/analytics/features/)
-  
+
+- Maps
+  - [Mapbox](https://www.mapbox.com/)
+
+- IP to geocode
+  - [ip-api](http://ip-api.com/) 
