@@ -102,3 +102,7 @@ Cloud services with free trial and so on...
 
 - IP to geocode
   - [ip-api](http://ip-api.com/) 
+
+- Articles parser/retriever
+  - [readability](https://www.readability.com/developers/api/parser) 
+  - [diffbot](http://www.diffbot.com/)
