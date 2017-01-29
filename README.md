@@ -106,3 +106,4 @@ Cloud services with free trial and so on...
 - Articles parser/retriever
   - [readability](https://www.readability.com/developers/api/parser) 
   - [diffbot](http://www.diffbot.com/)
+  - [mercury](https://mercury.postlight.com/)
